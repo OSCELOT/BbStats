@@ -5,3 +5,4 @@ BbStats reports data on LMS tool adoption.  It also tracks concurrent sessions o
 
 ![Alt text](login_user_count_screenshot.jpg?raw=true "screenshot")
 
+https://www.youtube.com/watch?v=i1XRY_pjDhY&index=32&list=PLAp8l9zV14TYy92FdvTTl3wf69CWiqyWi
